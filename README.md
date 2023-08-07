@@ -24,7 +24,7 @@
   <a href="https://wa.me/+998937223620" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/shaxzod-bahtiyarov-293b54239/" target="_blank">
+  <a href="https://www.linkedin.com/in/shaxzod-bahtiyarov-ab7a6b252/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/shaxzodbahtiyarov/" target="_blank">
