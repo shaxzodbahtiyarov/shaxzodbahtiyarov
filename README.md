@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Shaxzodb&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=shaxzodbahtiyarov&style=flat-square&color=blue" alt=""></p>
 <h3 align="left">Hi 👋, I'm Bahtiyarov Shaxzod</h3>
 <h3 align="left">Backend developer from Uzbekistan</h3>
 
