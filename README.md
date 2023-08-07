@@ -18,7 +18,7 @@
   <a href="mailto:shaxzodbahtiyarov0@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://t.me/Shaxzodb" target="_blank">
+  <a href="https://t.me/shaxzodbahtiyarov" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
   <a href="https://wa.me/+998937223620" target="_blank">
